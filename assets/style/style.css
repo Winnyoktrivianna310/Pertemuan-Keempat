@@ -1,0 +1,48 @@
+body{
+    background-color: dimgrey;
+}
+
+.hello {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2Opx;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+
+}
+.box {
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: blue;
+    border-style: solid;
+    padding: 30px;
+}
+
+.box2 {
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: blue;
+    border-style: solid;
+    padding: 30px;
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
